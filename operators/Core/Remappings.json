@@ -20,7 +20,7 @@
       "account": {
         "menu-item": {
           "divider": {
-            "value": "{core-tokens.base-1.dark-5}",
+            "value": "{core-tokens.base-1.dark-3}",
             "type": "color"
           },
           "header-text": {

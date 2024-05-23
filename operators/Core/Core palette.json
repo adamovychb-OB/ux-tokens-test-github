@@ -2,7 +2,7 @@
   "core-tokens": {
     "base-1": {
       "default": {
-        "value": "#262673",
+        "value": "#ffffff",
         "type": "color",
         "description": "Dev token: $base-1-default "
       },
